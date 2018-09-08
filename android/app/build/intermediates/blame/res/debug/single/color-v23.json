@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/accolite-ios-1/.android/build-cache/fb475bd1bd3999a80372c8a43da0878a345782ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/pre-dexed/debug/classes_ca2abb24d7c559b573238435f47c4d8367003763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/accolite-ios-1/.android/build-cache/fb475bd1bd3999a80372c8a43da0878a345782ac/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6add2b1ea282ad2289acf7f6f6dd15feaf9572a5.jar" />
+    </item>
+
+</items>

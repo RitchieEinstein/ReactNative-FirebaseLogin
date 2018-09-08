@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/4f73723211c9539849b949a6c899307f3abc97da/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

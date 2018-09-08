@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/accolite-ios-1/.android/build-cache/7e9212b7469f207e3f072ba6d20c1c8553167453/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

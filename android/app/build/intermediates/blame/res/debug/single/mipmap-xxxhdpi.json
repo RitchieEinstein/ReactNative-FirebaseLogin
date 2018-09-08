@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/accolite-ios-1/Documents/ReactTuts/auth/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
